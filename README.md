@@ -3,6 +3,7 @@
 **The Enterprise Privacy Shield for Large Language Models**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![NPM Version](https://img.shields.io/npm/v/@karanbavari/kavach)](https://www.npmjs.com/package/@karanbavari/kavach)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 Kavach is an open-source, high-performance privacy middleware designed to sit between your sensitive data and public LLMs (like OpenAI, Claude, or Gemini). It ensures that **Personally Identifiable Information (PII)** never leaves your secure infrastructure.
