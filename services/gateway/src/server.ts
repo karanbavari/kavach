@@ -1,5 +1,5 @@
 import Fastify, { FastifyInstance, FastifyRequest, FastifyReply } from 'fastify';
-import { Kavach } from '@kavach/core';
+import { Kavach } from '@karanbavari/kavach';
 import dotenv from 'dotenv';
 
 dotenv.config();

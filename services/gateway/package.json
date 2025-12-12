@@ -8,7 +8,7 @@
     },
     "dependencies": {
         "fastify": "^4.26.2",
-        "@kavach/core": "*",
+        "@karanbavari/kavach": "*",
         "dotenv": "^16.4.5"
     },
     "devDependencies": {

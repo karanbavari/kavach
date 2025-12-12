@@ -48,12 +48,12 @@ Best for integrating directly into your existing backend.
 
 1.  **Install**:
     ```bash
-    npm install @kavach/core
+    npm install @karanbavari/kavach
     ```
 
 2.  **Usage**:
     ```typescript
-    import { Kavach } from '@kavach/core';
+    import { Kavach } from '@karanbavari/kavach';
 
     // Initialize (Using Memory Default, Redis recommended for prod)
     const kavach = new Kavach();
